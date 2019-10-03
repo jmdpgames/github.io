@@ -9,7 +9,9 @@ Information Collection and Use
 For a better experience, while using our Service, I may require you to provide us with certain personally identifiable information, including but not limited to Google Play Services Information and Unity Analytics Information. The information that I request will be retained on your device and is not collected by me in any way.
 The app does use third party services that may collect information used to identify you.
 Link to privacy policy of third party service providers used by the app:
+
 https://www.google.com/policies/privacy/
+
 https://unity3d.com/cn/legal/monetization-services-terms-of-service?_ga=2.109835009.541971538.1569946715-54193141.1555075209
 
 Log Data
